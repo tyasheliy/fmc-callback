@@ -15,6 +15,7 @@
 ### Ручная установка
 
 * Клон репозитория
+* ```composer install```
 * Настройка подключения к БД в .env
 * ```php artisan migrate --seed```
 * ```php artisan serve```
